@@ -1,0 +1,14 @@
+{
+    "name": "Bento Hinoto",
+    "email": "bento@gmail.com",
+    "age": 30,
+    "address": {
+      "street": "123 Main St",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94101"
+    },
+    "interests": ["programming", "reading", "traveling"],
+    "isEmployee": true
+  }
+  
